@@ -1,0 +1,47 @@
+body{
+    background-color: paleturquoise;
+}
+
+#login1{
+    border-radius: 10px;
+    background-color: dodgerblue;
+    border-width: 10px;
+    border-color: magenta;
+    height: 500px;
+    width: 390px;
+}
+
+#username{
+    border-color: lightcoral;
+    border-radius: 20px;
+    border-width: 10px;
+    fill: lightgreen;
+    cursor: text;
+	font-size: 20px;
+}
+
+#label1{
+    color: lightgreen;
+}
+
+#logo{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+#login_button{
+    font-size: 50px;
+    fill: mediumspringgreen;
+    border: greenyellow;
+    border-radius: 50%;
+    width: 200px;
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
