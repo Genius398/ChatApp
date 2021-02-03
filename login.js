@@ -3,7 +3,7 @@ function login(){
 
     if (user == "")
     {
-        window.alert("You can continue without a username");    
+        window.alert("You can't continue without a username");    
     } 
     else
     {

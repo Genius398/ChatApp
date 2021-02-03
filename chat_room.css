@@ -1,0 +1,54 @@
+#logout{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    font-size: 40px;
+    background-color: #ff1100;
+}
+
+.ok{
+    font-size: 30px;
+    color: white;
+}
+
+body{
+    text-align: center;
+    background-color: #a3c9ff;
+}
+
+#new_room{
+    border-color: lightcoral;
+    border-radius: 20px;
+    border-width: 10px;
+    fill: lightgreen;
+    cursor: text;
+    font-size: 20px;
+}
+
+#room{
+    font-size: 50px;
+    fill: mediumspringgreen;
+    border: greenyellow;
+    width: fit-content;
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+}
+
+#trending{
+    color: white;
+}
+
+#output{
+    width: 500px;
+    height: fit-content;
+    border-radius: 50px;
+    background-color: #fff2b0;
+}
+
+.container{
+    text-align: center;
+}

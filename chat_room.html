@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="chat_room.css">
+        <title>Chat Room</title>
+        <script src="chat_room.js"></script>
+    </head>
+
+    <body onload="user()">
+        <div class="container">
+            <button onclick="logout()" class="btn btn-danger" id="logout">Logout</button>
+            <h4 class="ok" id="username_input"></h4>
+
+            <br>
+            <br>
+            <br>
+
+            <input type="text" class="form-control" id="new_room" placeholder="Add a new room">
+            <br>
+            <br>
+            <br>
+            <br>
+            <button onclick="addRoom()" class="btn btn-success" id="room">Add room</button>
+
+            <h3 id="trending">Trending Rooms on Kwitter</h3>
+            
+            <div id="output">fgdg</div>
+        </div>
+    </body>
+</html>
